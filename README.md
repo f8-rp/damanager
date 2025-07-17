@@ -2,7 +2,7 @@
 
 A Discord account manager that automates receiving replies on Discord using OAuth tokens.
 ---
-![APP SCREENIE :D](assets/screenshot.png)
+![APP SCREENIE :D](screenshot1.png)
 ---
 
 ## Features
