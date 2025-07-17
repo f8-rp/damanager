@@ -1,6 +1,6 @@
 # DAManager
 
-A Discord account manager that automates receiving replies on Discord using OAuth tokens.
+#### A Discord account manager that automates receiving replies on Discord using OAuth tokens.
 ---
 ![APP SCREENIE :D](screenshot1.png)
 ---
