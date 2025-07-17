@@ -2,8 +2,6 @@
 
 #### A Discord account manager that automates receiving replies on Discord using OAuth tokens.
 ---
-![APP SCREENIE :D](screenshot1.png)
----
 
 ## Features
 
@@ -20,7 +18,8 @@
   Download and store configurations locally as JSON files, which include OAuth token, channel ID, interval, and messages.
 
 ---
-
+![APP SCREENIE :D](screenshot1.png)
+---
 ## Getting Started
 
 ### For macOS
