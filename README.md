@@ -1,7 +1,8 @@
-# damanager
+# DAManager
 
 A Discord account manager that automates receiving replies on Discord using OAuth tokens.
-
+---
+![APP SCREENIE :D](assets/screenshot.png)
 ---
 
 ## Features
@@ -64,10 +65,14 @@ If you get a permission error running the `.sh` file, run this command in your t
     npm start
     ```
 
+---
+
 ## Usage
 
-Add your OAuth tokens and configure intervals, channels, and messages via the web interface. Export and import your custom JSON configuration files for easy management.
+**Note:** Follow getting started to run the server.
+### INSTRUCTIONS WIP for now
 
+---
 
 ## License
 
