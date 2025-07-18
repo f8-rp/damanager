@@ -83,7 +83,9 @@ Hello! | How are you! | I am doing well today!
 ```
 Leads to:
 (2 seconds between each message)
+
 ![examplescreenshot](https://cdn.discordapp.com/attachments/1380420506896826459/1395555860565983403/Screenshot_2025-07-17_at_6.00.42_PM.png?ex=687ae02d&is=68798ead&hm=fd5fc4be9fd82a1085ca62d8dba82150e8b36c434b65fdb5f29b4ee940e2e76a&)
+
 
 **Note**: To increase the delay before sending a message upon receiving a DM, simply add multiple ``|`` characters at the beginning of your prompt
 Example:
